@@ -57,6 +57,7 @@ export const AreaChart = ({ country }) => {
                    minHeight: 50
                   
                }}
+               height={450}
 
 
                
